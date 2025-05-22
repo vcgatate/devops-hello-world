@@ -1,0 +1,4 @@
+Hello Artifactory and Sonar
+added webhook
+docker image
+removed
